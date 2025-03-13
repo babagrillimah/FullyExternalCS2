@@ -26,9 +26,7 @@ public class Program :
 
     private Graphics.Graphics Graphics { get; set; } = null!;
 
-    private TriggerBot Trigger { get; set; } = null!;
 
-    private AimBot AimBot { get; set; } = null!;
 
     private BombTimer BombTimer { get; set; } = null!;
 
